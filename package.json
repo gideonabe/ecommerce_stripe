@@ -14,7 +14,7 @@
     "@sanity/vision": "^3.68.3",
     "@stripe/stripe-js": "^5.4.0",
     "canvas-confetti": "^1.9.3",
-    "next": "15.1.2",
+    "next": "^14.0.0",
     "next-sanity": "^9.8.30",
     "next-sanity-image": "^6.1.1",
     "react": "^18.3.0",
