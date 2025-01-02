@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "next dev --turbopack",
+    "dev": "next dev",
     "build": "next build",
     "start": "next start",
     "lint": "next lint"
@@ -14,7 +14,7 @@
     "@sanity/vision": "^3.68.3",
     "@stripe/stripe-js": "^5.4.0",
     "canvas-confetti": "^1.9.3",
-    "next": "^14.0.0",
+    "next": "^14.2.22",
     "next-sanity": "^9.8.30",
     "next-sanity-image": "^6.1.1",
     "react": "^18.3.0",
